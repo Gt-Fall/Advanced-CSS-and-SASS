@@ -16,3 +16,5 @@ The page shows –
 •	Booking form
 •	Non standard radio buttons 
 •	General page design practice
+
+Completed from Udemy.com course by Jonas Schmedtmann
