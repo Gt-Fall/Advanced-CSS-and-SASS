@@ -1,9 +1,9 @@
 # Advanced-CSS-and-SASS
-Page demonstrating use of SASS mode and Advanced CSS 
+Page demonstrating use of SASS mode and Advanced CSS and SCSS
 
 This project shows a page demonstrating many advanced CSS techniques. 
 
-The page demonstrates using SASS framework for writing CSS and the use of nesting in SASS.
+The page demonstrates using SASS framework for writing CSS and the use of nesting in SCSS.
 
 The page shows – 
 •	Advanced Navigation button with animation 
